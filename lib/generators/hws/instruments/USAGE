@@ -1,0 +1,8 @@
+Description:
+    Adds necessary ActiveRecord migrations to the rails application
+
+Example:
+    rails generate hws:instruments:install
+
+    This will create:
+        db/migrate/<migration_number>_create_hws_instruments_tables.rb
